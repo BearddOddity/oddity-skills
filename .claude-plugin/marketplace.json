@@ -1,0 +1,15 @@
+{
+  "name": "oddity",
+  "description": "Local marketplace for skills developed in the Oddity reverse-engineering workspace",
+  "owner": {
+    "name": "OddTower"
+  },
+  "plugins": [
+    {
+      "name": "oddity-re",
+      "description": "RE lab operations, Ghidra MCP usage, anti-debug recognition, crackme and long-horizon RE project methods, the blue-team half of the kill chain, and two project-agnostic skills: skill-manager and status-page.",
+      "version": "2.1.0",
+      "source": "./plugins/oddity-re"
+    }
+  ]
+}

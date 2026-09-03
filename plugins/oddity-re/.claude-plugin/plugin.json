@@ -1,0 +1,22 @@
+{
+  "name": "oddity-re",
+  "description": "Reverse-engineering and defensive-security skills for the Oddity workspace: lab operations, Ghidra MCP usage, anti-debug recognition, crackme and long-horizon RE project methods, plus the blue-team half of the security kill chain (SOC ops, SIEM/log analysis, hardening, OT/ICS, GRC) that offensive-claude deliberately omits. Also carries two project-agnostic skills: skill-manager, which assigns a project its standing power roster, and status-page, which publishes a visual progress report for any project.",
+  "version": "2.1.0",
+  "author": {
+    "name": "OddTower"
+  },
+  "license": "MIT",
+  "keywords": [
+    "reverse-engineering",
+    "ghidra",
+    "anti-debug",
+    "crackme",
+    "blue-team",
+    "siem",
+    "grc",
+    "ics",
+    "status-page",
+    "project-status",
+    "progress-report"
+  ]
+}
